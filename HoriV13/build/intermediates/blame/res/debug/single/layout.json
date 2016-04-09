@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\layout\\ip_setting.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\layout\\ip_setting.xml"
+    },
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\layout\\activity_secretary.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\layout\\activity_secretary.xml"
+    },
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\layout\\activity_date.xml"
+    },
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\layout\\activity_event_info.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\layout\\activity_event_info.xml"
+    },
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\layout\\activity_voice.xml"
+    },
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\layout\\event_item.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\layout\\event_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\layout\\activity_camera.xml"
+    }
+]

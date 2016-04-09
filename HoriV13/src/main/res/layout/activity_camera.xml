@@ -1,0 +1,58 @@
+<FrameLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+	android:layout_height="match_parent"
+    tools:ignore="MergeRootFrame" >
+    
+	<SurfaceView
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:id="@+id/playwnd" />
+    
+	<LinearLayout
+	    android:visibility="gone"
+	    android:id="@+id/ll_buttons"
+	    android:gravity="bottom"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="horizontal" >
+	    <Button
+	        android:drawableTop="@drawable/connect"
+	        android:background="@drawable/btn_camera_item"
+	        android:enabled="false"
+	        android:text="connect"
+	        android:layout_weight="1"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/btn_connect" />
+		<Button
+	        android:drawableTop="@drawable/btn_addr"
+	        android:background="@drawable/btn_camera_item"
+	        android:enabled="false"
+	        android:text="addr"
+	        android:layout_weight="1"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/btn_addr" />
+		<Button
+	        android:drawableTop="@drawable/ic_switch"
+	        android:background="@drawable/btn_camera_item"
+	        android:text="switch"
+	        android:layout_weight="1"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/btn_switch" />
+	    <Button
+	        android:drawableTop="@drawable/btn_exit"
+	        android:background="@drawable/btn_camera_item"
+	        android:text="exit"
+	        android:layout_weight="1"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/btn_exit" />
+	</LinearLayout>
+
+</FrameLayout>
+

@@ -1,0 +1,564 @@
+[
+    {
+        "outputFile": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 49,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 39,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 39,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 57,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 55,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 42,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 41,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 41,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 54,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 54,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 49,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 862,
+                        "endColumn": 49,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 52,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 52,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 50,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 50,
+                        "endOffset": 857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 49,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 49,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 60,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 60,
+                        "endOffset": 968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 42,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 42,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 52,
+                    "endOffset": 755
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 52,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 760,
+                    "endColumn": 44,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 654,
+                        "endColumn": 44,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 42,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 42,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 50,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 50,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endColumn": 46,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 46,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 56,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 56,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 52,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 52,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endColumn": 62,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 62,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endColumn": 42,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 481,
+                        "endColumn": 42,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 33,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 33,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 48,
+                    "endOffset": 1240
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 48,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1245,
+                    "endColumn": 46,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 46,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endColumn": 39,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 39,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1618
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1623,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1778
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1783,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 1981
+                },
+                "from": {
+                    "file": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 869
+                    }
+                }
+            }
+        ]
+    }
+]

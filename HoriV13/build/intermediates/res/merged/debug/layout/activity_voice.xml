@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:versionCode="1"
+    android:versionName="1.0" 
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     android:background="#aabbcc"
+    >
+    
+
+   <Button
+       android:id="@+id/voice_call"
+       style="@style/main_bar_text_style"
+       android:layout_width="fill_parent"
+       android:layout_height="350dp"
+       android:layout_alignParentBottom="true"
+       android:layout_alignParentLeft="true"   
+       android:drawableTop="@drawable/start_record"    
+       android:text="Please press to record!"
+       android:textColor="#00ff00"
+       android:textSize="25dp"  
+       android:background="#aabbcc"   
+        />
+
+</RelativeLayout>

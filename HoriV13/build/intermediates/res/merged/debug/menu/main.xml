@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.burial.app4ros.MainActivity" >
+
+    <item
+        android:id="@+id/action_Settings"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:icon="@drawable/menu_manage"
+        android:title="@string/menu_settings"/>
+    
+	<item
+        android:id="@+id/secreary_exit"
+        android:orderInCategory="2"
+        android:showAsAction="always"
+        android:icon="@drawable/menu_close" />
+
+</menu>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\menu\\menu_voice.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\menu\\menu_voice.xml"
+    },
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\menu\\menu_secretary.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\menu\\menu_secretary.xml"
+    },
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\HoriV1.33\\HoriV13\\build\\intermediates\\res\\merged\\debug\\menu\\menu_calendar.xml",
+        "source": "D:\\Android\\HoriV1.33\\HoriV13\\src\\main\\res\\menu\\menu_calendar.xml"
+    }
+]
